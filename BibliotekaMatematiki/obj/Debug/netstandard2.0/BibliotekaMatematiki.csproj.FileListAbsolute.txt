@@ -1,0 +1,9 @@
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\bin\Debug\netstandard2.0\BibliotekaMatematiki.deps.json
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\bin\Debug\netstandard2.0\BibliotekaMatematiki.dll
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\bin\Debug\netstandard2.0\BibliotekaMatematiki.pdb
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\obj\Debug\netstandard2.0\BibliotekaMatematiki.csprojAssemblyReference.cache
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\obj\Debug\netstandard2.0\BibliotekaMatematiki.AssemblyInfoInputs.cache
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\obj\Debug\netstandard2.0\BibliotekaMatematiki.AssemblyInfo.cs
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\obj\Debug\netstandard2.0\BibliotekaMatematiki.csproj.CoreCompileInputs.cache
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\obj\Debug\netstandard2.0\BibliotekaMatematiki.dll
+C:\Users\DanyS\source\repos\BibliotekaMatematiki\obj\Debug\netstandard2.0\BibliotekaMatematiki.pdb
